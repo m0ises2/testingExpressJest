@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probar nuestro mini servidor Retorna ok y objeto 1`] = `
+Object {
+  "lastname": "Alvarado",
+  "name": "Moisés",
+}
+`;
